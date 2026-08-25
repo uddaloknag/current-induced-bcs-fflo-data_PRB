@@ -106,9 +106,11 @@ The quantities and conventions used here are defined in the manuscript. In parti
 
 ## Citation
 
+## Citation
+
 If you use these data, please cite the associated article:
 
-> U. Nag, J. Schirmer, C.-X. Liu, and J. K. Jain, “Current Induced Switching of Superconducting Order and Enhancement of Superconducting Diode Efficiency,” *Physical Review B* (2026).
+> U. Nag, J. Schirmer, C.-X. Liu, and J. K. Jain, “Current Induced Switching of Superconducting Order and Enhancement of Superconducting Diode Efficiency,” *Physical Review B* (2026). https://doi.org/10.1103/xtsd-hkdw
 
 A permanent dataset DOI will be added here after archival.
 
